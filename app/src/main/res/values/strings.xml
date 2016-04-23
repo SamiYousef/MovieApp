@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Movies App</string>
+    <string name="api_key" translatable="false">f62207fb95b0b4ab18845d3dc05eddc8</string>
+    <string name="action_share">Share</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="setting">setting</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="highest_rated">Highest Rated</string>
+    <string name="favorites">Favorites</string>
+
+
+</resources>
